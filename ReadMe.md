@@ -1,5 +1,5 @@
 Welcome to the ML-Projects Repo! 
-This repo is a mixed bad repo of some of my personal projects for ML. 
+This repo is a mixed bag repo of some of my personal projects for ML. 
 Most notebooks have been made in a spur of the moment to explain concepts to colleagues or friends but mostly to brush up on skills.
 
 #### Machine Learning
